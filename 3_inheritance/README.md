@@ -1,4 +1,4 @@
-# Shape
+# Tugas: Shape
 
 mempunyai variabel color (String) dan filled (boolean).
 - 2 constructor: a no-arg (no-argument) yang meninisialisasi color = "green" dan filled = True, dan constructor yang menginisialisasi color, dan filled sesuai argumen.
@@ -26,8 +26,7 @@ mempunyai variabel color (String) dan filled (boolean).
 - Methods getArea() and getPerimeter().
 - Override the toString() method inherited, to return "A Rectangle with width=xxx and length=zzz, which is a subclass of yyy", where yyy is the output of the toString() method from the superclass.
 
-
-### Challenge 
+# Challenge 
 Buatlah sebuah kelas bernama square, subclass dari rectangle. Ubahlah class rectangle supaya dapat dimodelkan sebagai kelas. Kelas square tidak mempunya instance variable tapi 'inherit' instance variable dari width dan length dari superclass Rectangle 
 Hint:
 public Square(double side) {
