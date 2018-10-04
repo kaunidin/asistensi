@@ -16,8 +16,19 @@ class minus{
     }
 }
 
+class tambah3{
+    public int tambah (int x, int y, int z){
+        return x + y + z; 
+    }
+}
+
+class tambah{
+    
+}
+
 public class INHERITANCE {
      public static void main(String[] args) {
-        // TODO code application logic here
+        kalkulator kal = new kalkulator(); 
+         System.out.println(kal.tambah(5,6));
     }
 }
