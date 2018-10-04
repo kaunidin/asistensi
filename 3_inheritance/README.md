@@ -1,7 +1,10 @@
 # Tugas: Shape
 
 ## UML 
-![](enakin.png)
+![](enakin.png)   
+
+
+
 mempunyai variabel color (String) dan filled (boolean).
 - 2 constructor: a no-arg (no-argument) yang meninisialisasi color = "green" dan filled = True, dan constructor yang menginisialisasi color, dan filled sesuai argumen.
 - Getter and setter for all the instance variables. Seluruh getter dan setter untuk instance variable (untuk boolean getter dan setter diganti isFilled)
